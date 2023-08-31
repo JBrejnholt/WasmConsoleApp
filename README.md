@@ -1,0 +1,2 @@
+# WasmConsoleApp
+Playground for webassembly.
